@@ -10,6 +10,7 @@ public class HomeLoanTestScript1 {
 		System.out.println("homeloan functionality");
 		System.out.println("extra functionality");
 		System.out.println("logout functionality");
+		System.out.println("logout functionality");
 	}
 
 
