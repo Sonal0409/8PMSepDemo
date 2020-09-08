@@ -8,6 +8,8 @@ public class HomeLoanTestScript1 {
 	public void homeloan()
 	{
 		System.out.println("homeloan functionality");
+		System.out.println("extra functionality");
+		System.out.println("logout functionality");
 	}
 
 
